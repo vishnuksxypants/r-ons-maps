@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553107534042.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1211415538",
+    "id" : "DBCAAF5D",
+    "lastKnownWriteTime" : 1553112022,
+    "last_content_update" : 1553112022556,
+    "path" : "D:/coding/r-ons-maps/r-ons-maps/map_gdhi.R",
+    "project_path" : "map_gdhi.R",
+    "properties" : {
+        "cursorPosition" : "26,58",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
